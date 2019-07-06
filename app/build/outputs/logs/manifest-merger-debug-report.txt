@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\bda21b2ad38050a6c2ed1bc3319bd264\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\18ac233a1f5d97f9bcf8909282a172b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b25e2ceed8e7d3d3a98a1cb30e360d74\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\2257c72752ce55d9e9e49c678b05c2ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\f983d87ba74503a1a36268050af66a2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a2e23c9e5b752cf15fd6e041282e7480\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b617a959ff80d25dcbd55acda165ac63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\ad3426e912c8e77ad4be965896c4f419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\d3fdf8872d77704844b5b44773da146b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\4d4fe11dd8de69bad151f74609dddac5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\8284edc4c2a4a4418a3e748ac2637422\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\cc06e035bc03dd74b6c4afbd1e33f134\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\d857d845f3abec995fb7b544400258ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\479f4817933148f576ba99a9ff5abe42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\e47a47d3612b1ef012d8291ccacc3586\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\9457cea2178de9099fba90e3fa450cfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\7edf2ee7de020dfc7cbd030dc6b24cf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b1df19cc12674186c2592a13e606d0cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a515b6c0f35e6cfbcbf57380719a8c73\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\0dc418b780b11a3421ae7300ca8273c6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\7875e679516c88b2188334dedb8bd533\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\46c05b050c11dcb00891e4d104c90cd7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\49027e56298665f0ec1e7df484786fdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\ae817f9dcc238b6aa63d91b08ee69b36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\cbe74d6b79e09ec1b04957d8599d9b53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\56882c7125db295d6146a301dd97d463\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\8629b66113b2ad1cdd736022c7d188d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\f8d0ae6c25f1c40d2e4c0dccd4a53e2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\9b8fc8021611057e028bd4b1b5df72d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b0a8e65c880e0604aa07bd555fdab706\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\34bd5175fc5e8bb26607d8748cc5ff5f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\bda21b2ad38050a6c2ed1bc3319bd264\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\bda21b2ad38050a6c2ed1bc3319bd264\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b25e2ceed8e7d3d3a98a1cb30e360d74\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b25e2ceed8e7d3d3a98a1cb30e360d74\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a515b6c0f35e6cfbcbf57380719a8c73\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a515b6c0f35e6cfbcbf57380719a8c73\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\0dc418b780b11a3421ae7300ca8273c6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\0dc418b780b11a3421ae7300ca8273c6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a515b6c0f35e6cfbcbf57380719a8c73\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:11:9-40
+activity#birthday.warhammerdice.MainActivity
+ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\bda21b2ad38050a6c2ed1bc3319bd264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\bda21b2ad38050a6c2ed1bc3319bd264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\18ac233a1f5d97f9bcf8909282a172b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\18ac233a1f5d97f9bcf8909282a172b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b25e2ceed8e7d3d3a98a1cb30e360d74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b25e2ceed8e7d3d3a98a1cb30e360d74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\2257c72752ce55d9e9e49c678b05c2ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\2257c72752ce55d9e9e49c678b05c2ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\f983d87ba74503a1a36268050af66a2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\f983d87ba74503a1a36268050af66a2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a2e23c9e5b752cf15fd6e041282e7480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a2e23c9e5b752cf15fd6e041282e7480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b617a959ff80d25dcbd55acda165ac63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b617a959ff80d25dcbd55acda165ac63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\ad3426e912c8e77ad4be965896c4f419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\ad3426e912c8e77ad4be965896c4f419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\d3fdf8872d77704844b5b44773da146b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\d3fdf8872d77704844b5b44773da146b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\4d4fe11dd8de69bad151f74609dddac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\4d4fe11dd8de69bad151f74609dddac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\8284edc4c2a4a4418a3e748ac2637422\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\8284edc4c2a4a4418a3e748ac2637422\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\cc06e035bc03dd74b6c4afbd1e33f134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\cc06e035bc03dd74b6c4afbd1e33f134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\d857d845f3abec995fb7b544400258ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\d857d845f3abec995fb7b544400258ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\479f4817933148f576ba99a9ff5abe42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\479f4817933148f576ba99a9ff5abe42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\e47a47d3612b1ef012d8291ccacc3586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\e47a47d3612b1ef012d8291ccacc3586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\9457cea2178de9099fba90e3fa450cfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\9457cea2178de9099fba90e3fa450cfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\7edf2ee7de020dfc7cbd030dc6b24cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\7edf2ee7de020dfc7cbd030dc6b24cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b1df19cc12674186c2592a13e606d0cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b1df19cc12674186c2592a13e606d0cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a515b6c0f35e6cfbcbf57380719a8c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\a515b6c0f35e6cfbcbf57380719a8c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\0dc418b780b11a3421ae7300ca8273c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\0dc418b780b11a3421ae7300ca8273c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\7875e679516c88b2188334dedb8bd533\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\7875e679516c88b2188334dedb8bd533\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\46c05b050c11dcb00891e4d104c90cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\46c05b050c11dcb00891e4d104c90cd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\49027e56298665f0ec1e7df484786fdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\49027e56298665f0ec1e7df484786fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\ae817f9dcc238b6aa63d91b08ee69b36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\ae817f9dcc238b6aa63d91b08ee69b36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\cbe74d6b79e09ec1b04957d8599d9b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\cbe74d6b79e09ec1b04957d8599d9b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\56882c7125db295d6146a301dd97d463\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\56882c7125db295d6146a301dd97d463\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\8629b66113b2ad1cdd736022c7d188d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\8629b66113b2ad1cdd736022c7d188d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\f8d0ae6c25f1c40d2e4c0dccd4a53e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\f8d0ae6c25f1c40d2e4c0dccd4a53e2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\9b8fc8021611057e028bd4b1b5df72d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\9b8fc8021611057e028bd4b1b5df72d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b0a8e65c880e0604aa07bd555fdab706\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\b0a8e65c880e0604aa07bd555fdab706\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\34bd5175fc5e8bb26607d8748cc5ff5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Brandon\.gradle\caches\transforms-2\files-2.1\34bd5175fc5e8bb26607d8748cc5ff5f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brandon\Documents\GitHub\WarhammerDice\app\src\main\AndroidManifest.xml
