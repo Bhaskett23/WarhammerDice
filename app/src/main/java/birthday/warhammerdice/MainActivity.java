@@ -1,6 +1,8 @@
 package birthday.warhammerdice;
 
+import android.graphics.Color;
 import android.os.Bundle;
+import android.support.annotation.ColorInt;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -16,11 +18,15 @@ public class MainActivity extends AppCompatActivity {
     private int toHit;
     private int toWound;
     private int numberOfDice;
-    private MathEngine mathEngine;
+    private String error;
 
+    private MathEngine mathEngine;
     EditText txtNumberOfDice;
     EditText txtToHit;
     EditText txtToWound;
+    FloatingActionButton fab;
+    TextView txtResultDisplay;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,10 +37,10 @@ public class MainActivity extends AppCompatActivity {
         txtNumberOfDice = findViewById(R.id.txtNumberOfDice);
         txtToHit = findViewById(R.id.txtHit);
         txtToWound = findViewById(R.id.txtWound);
-
+        txtResultDisplay = findViewById(R.id.txtResult);
         setSupportActionBar(toolbar);
         mathEngine = new MathEngine();
-        FloatingActionButton fab = findViewById(R.id.fab);
+        fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -46,17 +52,71 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getResults() {
-        numberOfDice = Integer.parseInt(txtNumberOfDice.getText().toString());
-        toHit = Integer.parseInt(txtToHit.getText().toString());
-        toWound = Integer.parseInt(txtToWound.getText().toString());
 
-        RollResultModel result =  mathEngine.getRollResult(numberOfDice, toHit, toWound);
+        if(checkInput())
+        {
+            RollResultModel result =  mathEngine.getRollResult(numberOfDice, toHit, toWound);
+            txtResultDisplay.setTextColor(Color.BLACK);
 
-        TextView resultDisplay = findViewById(R.id.txtResult);
+            String z = "Number of Hits: " + result.getHits() + "\n" + "Number of Wounds: " + result.getWounds();
 
-        String z = "Number of Hits: " + result.getHits() + "\n" + "Number of Wounds: " + result.getWounds();
+            txtResultDisplay.setText(z);
+        }
+        else
+        {
+            txtResultDisplay.setTextColor(Color.RED);
+            txtResultDisplay.setText(error);
+        }
 
-        resultDisplay.setText(z);
+    }
+
+    private boolean checkInput() {
+
+        boolean isValid = true;
+
+        if (txtNumberOfDice.getText().toString().isEmpty()) {
+            isValid = false;
+            error = "Number of dice can not be empty";
+        }
+        else {
+            numberOfDice = Integer.parseInt(txtNumberOfDice.getText().toString());
+            if(numberOfDice == 0)
+            {
+                error = "Number of dice can not be 0";
+                isValid = false;
+            }
+        }
+
+        if(txtToHit.getText().toString().isEmpty())
+        {
+            error += ", to hit must have value";
+            isValid = false;
+        }
+        else {
+            toHit = Integer.parseInt(txtToHit.getText().toString());
+            if (toHit > 6)
+            {
+                error += ", to hit must be 6 or less";
+                isValid = false;
+            }
+        }
+
+        if(txtToWound.getText().toString().isEmpty())
+        {
+            error += ", to wound must have value";
+            isValid = false;
+        }
+        else
+        {
+            toWound = Integer.parseInt(txtToWound.getText().toString());
+            if(toWound > 6)
+            {
+                error += ", to wound must be 6 or less";
+                isValid = false;
+            }
+        }
+
+        return isValid;
     }
 
     @Override
