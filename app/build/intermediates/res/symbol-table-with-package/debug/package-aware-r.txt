@@ -1065,6 +1065,10 @@ id center_horizontal
 id center_vertical
 id chains
 id checkbox
+id chkReroll1Hits
+id chkReroll1Wound
+id chkRerollAllHits
+id chkRerollAllWounds
 id chronometer
 id clip_horizontal
 id clip_vertical
@@ -1116,9 +1120,11 @@ id item_touch_helper_previous_elevation
 id labeled
 id largeLabel
 id lblDice
+id lblHitRerolls
 id lblResult
 id lblToHit
 id lblWound
+id lblWoundRerolls
 id left
 id line1
 id line3

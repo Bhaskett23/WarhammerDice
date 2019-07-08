@@ -1,4 +1,4 @@
-#Sat Jul 06 01:20:31 EDT 2019
+#Sun Jul 07 22:40:11 EDT 2019
 base.0=C\:\\Users\\Brandon\\Documents\\GitHub\\WarhammerDice\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 path.1=classes.dex
 renamed.1=classes2.dex

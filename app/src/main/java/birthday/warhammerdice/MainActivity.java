@@ -10,6 +10,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -24,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
     EditText txtNumberOfDice;
     EditText txtToHit;
     EditText txtToWound;
+    CheckBox chkReroll1Hits;
+    CheckBox chkRerollAllHits;
+    CheckBox chkReroll1Wounds;
+    CheckBox chkRerollAllWounds;
     FloatingActionButton fab;
     TextView txtResultDisplay;
 
@@ -34,6 +39,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toolbar toolbar = findViewById(R.id.toolbar);
+        chkReroll1Hits = findViewById(R.id.chkReroll1Hits);
+        chkRerollAllHits = findViewById(R.id.chkRerollAllHits);
+        chkReroll1Wounds = findViewById(R.id.chkReroll1Wound);
+        chkRerollAllWounds = findViewById(R.id.chkRerollAllWounds);
         txtNumberOfDice = findViewById(R.id.txtNumberOfDice);
         txtToHit = findViewById(R.id.txtHit);
         txtToWound = findViewById(R.id.txtWound);
@@ -55,7 +64,12 @@ public class MainActivity extends AppCompatActivity {
 
         if(checkInput())
         {
-            RollResultModel result =  mathEngine.getRollResult(numberOfDice, toHit, toWound);
+            boolean reRollOnesToHit = chkReroll1Hits.isChecked();
+            boolean reRollOnesToWound = chkReroll1Wounds.isChecked();
+            boolean reRollAllHits = chkRerollAllHits.isChecked();
+            boolean reRollAllWounds = chkRerollAllWounds.isChecked();
+
+            RollResultModel result =  mathEngine.getRollResult(numberOfDice, toHit, toWound, reRollOnesToHit, reRollAllHits, reRollOnesToWound, reRollAllWounds);
             txtResultDisplay.setTextColor(Color.BLACK);
 
             String z = "Number of Hits: " + result.getHits() + "\n" + "Number of Wounds: " + result.getWounds();
