@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class MathEngine {
 
-    private int calculateNumberOfHits(int numberOfDice, int toHit, boolean reRollOnesToHit, boolean reRollAllHits)
+    int calculateNumberOfHits(int numberOfDice, int toHit, boolean reRollOnesToHit, boolean reRollAllHits)
     {
         return rollSimulator(numberOfDice, toHit, reRollOnesToHit, reRollAllHits);
     }
@@ -14,7 +14,7 @@ public class MathEngine {
         return rollSimulator(numberOfHits, toWound, reRollOnesToWound, reRollAllWounds);
     }
 
-    private int rollSimulator(int numberOfDice, int successValue, boolean reRollOnes, boolean reRollAll) {
+    int rollSimulator(int numberOfDice, int successValue, boolean reRollOnes, boolean reRollAll) {
 
         int successes = 0;
         int misses = 0;
