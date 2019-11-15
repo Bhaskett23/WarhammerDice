@@ -9,7 +9,7 @@ public class MathEngine {
         return rollSimulator(numberOfDice, toHit, reRollOnesToHit, reRollAllHits);
     }
 
-    private int calculateNumberOfWounds(int numberOfHits, int toWound, boolean reRollOnesToWound, boolean reRollAllWounds)
+    int calculateNumberOfWounds(int numberOfHits, int toWound, boolean reRollOnesToWound, boolean reRollAllWounds)
     {
         return rollSimulator(numberOfHits, toWound, reRollOnesToWound, reRollAllWounds);
     }
