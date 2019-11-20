@@ -37,3 +37,5 @@ local.properties
 ehthumbs.db
 Thumbs.db
 app/build/generated/*
+.idea/caches/gradle_models.ser
+.idea/caches/build_file_checksums.ser
