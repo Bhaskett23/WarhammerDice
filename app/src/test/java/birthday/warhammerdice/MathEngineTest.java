@@ -123,6 +123,7 @@ public class MathEngineTest {
 
         //Act
         _mathEngine.rollSimulator(_numberOfDice, _toWound, false, false);
+        
         //Assert
         verify(_mathEngine, times(0)).rollSimulator(0, _toWound, false, false);
     }
