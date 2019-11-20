@@ -21,7 +21,7 @@ public class MathEngine {
         int total;
 
         for (int i = 0; i < numberOfDice; i++) {
-            int dieRoll = ThreadLocalRandom.current().nextInt(1, 7);
+            int dieRoll = randomNumber();
             if (dieRoll >= successValue) {
                 successes++;
             } else if (reRollAll || (reRollOnes & dieRoll == 1)) {
@@ -37,6 +37,11 @@ public class MathEngine {
         }
 
         return total;
+    }
+
+    public int randomNumber()
+    {
+      return  ThreadLocalRandom.current().nextInt(1, 7);
     }
 
     public RollResultModel getRollResult(int numberOfDice, int toHit, int toWound, boolean reRollOnesToHit, boolean reRollAllHits, boolean reRollOnesToWound, boolean reRollAllWounds)

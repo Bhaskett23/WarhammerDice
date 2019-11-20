@@ -60,7 +60,117 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_Q" />
+  <component name="DockManager">
+    <window id="3">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MathEngine.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="646">
+                    <caret line="38" selection-start-line="38" selection-end-line="38" />
+                    <folding>
+                      <element signature="e#1190#1191#0" expanded="true" />
+                      <element signature="e#1253#1254#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="221">
+                    <caret line="13" selection-start-line="13" selection-end-line="13" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="439">
+                    <caret line="295" column="9" lean-forward="true" selection-start-line="295" selection-start-column="9" selection-end-line="295" selection-end-column="9" />
+                    <folding>
+                      <element signature="e#2922#2923#0" expanded="true" />
+                      <element signature="e#2966#2967#0" expanded="true" />
+                      <element signature="e#11040#11204#0" expanded="true" />
+                      <element signature="e#11203#11204#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="867">
+                    <caret line="79" selection-start-line="79" selection-end-line="79" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/stubbing/answers/CallsRealMethods.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="544">
+                    <caret line="42" selection-start-line="42" selection-end-line="42" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/Answers.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="767">
+                    <caret line="99" selection-start-line="99" selection-end-line="99" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/handler/MockHandlerImpl.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="696">
+                    <caret line="111" selection-start-line="111" selection-end-line="111" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/handler/NullResultGuardian.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="408">
+                    <caret line="34" selection-start-line="34" selection-end-line="34" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/handler/InvocationNotifierHandler.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="425">
+                    <caret line="36" selection-start-line="36" selection-end-line="36" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="336">
+                    <caret line="107" selection-start-line="107" selection-end-line="107" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Galaxy_Nexus_API_23" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -80,41 +190,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/birthday/warhammerdice/MathEngineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="232">
+              <caret line="129" selection-start-line="129" selection-end-line="140" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MathEngine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="41" column="26" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/RollResultModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -131,9 +216,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>reroll1s</find>
+      <find>RandomNumber</find>
     </findStrings>
     <replaceStrings>
       <replace>rerollOnes</replace>
+      <replace>randomNumber</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -167,9 +254,40 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WarhammerDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="WarhammerDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="WarhammerDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="warhammerdice" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WarhammerDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="warhammerdice" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WarhammerDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.MathEngineTest.GetRollResultReturnsNumberOfHitsAndWounds">
+  <component name="RunManager" selected="Android JUnit.MathEngineTest">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -219,7 +337,7 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfHits" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathEngineTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
         <pattern>
@@ -229,14 +347,30 @@
       </extension>
       <option name="PACKAGE_NAME" value="birthday.warhammerdice" />
       <option name="MAIN_CLASS_NAME" value="birthday.warhammerdice.MathEngineTest" />
-      <option name="METHOD_NAME" value="GetRollResultCallsCalculateNumberOfHits" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathEngineTest.RollSimulatorCallsItselfToRerollDiceIfRerollAllIsTrue" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="birthday.warhammerdice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="birthday.warhammerdice" />
+      <option name="MAIN_CLASS_NAME" value="birthday.warhammerdice.MathEngineTest" />
+      <option name="METHOD_NAME" value="RollSimulatorCallsItselfToRerollDiceIfRerollAllIsTrue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfWounds" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathEngineTest.RollSimulatorCallsRandomNumberForEachDiceRoll" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
         <pattern>
@@ -246,14 +380,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="birthday.warhammerdice" />
       <option name="MAIN_CLASS_NAME" value="birthday.warhammerdice.MathEngineTest" />
-      <option name="METHOD_NAME" value="GetRollResultCallsCalculateNumberOfWounds" />
+      <option name="METHOD_NAME" value="RollSimulatorCallsRandomNumberForEachDiceRoll" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathEngineTest.GetRollResultCallsCalculateSavingThrows" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathEngineTest.RollSimulatorCallsThreadLocalForEachDiceRoll" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
         <pattern>
@@ -263,14 +397,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="birthday.warhammerdice" />
       <option name="MAIN_CLASS_NAME" value="birthday.warhammerdice.MathEngineTest" />
-      <option name="METHOD_NAME" value="GetRollResultCallsCalculateSavingThrows" />
+      <option name="METHOD_NAME" value="RollSimulatorCallsThreadLocalForEachDiceRoll" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathEngineTest.GetRollResultReturnsNumberOfHitsAndWounds" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathEngineTest.RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
         <pattern>
@@ -280,7 +414,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="birthday.warhammerdice" />
       <option name="MAIN_CLASS_NAME" value="birthday.warhammerdice.MathEngineTest" />
-      <option name="METHOD_NAME" value="GetRollResultReturnsNumberOfHitsAndWounds" />
+      <option name="METHOD_NAME" value="RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -370,10 +504,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit.MathEngineTest.GetRollResultReturnsNumberOfHitsAndWounds" />
-        <item itemvalue="Android JUnit.MathEngineTest.GetRollResultCallsCalculateNumberOfHits" />
-        <item itemvalue="Android JUnit.MathEngineTest.GetRollResultCallsCalculateNumberOfWounds" />
-        <item itemvalue="Android JUnit.MathEngineTest.GetRollResultCallsCalculateSavingThrows" />
+        <item itemvalue="Android JUnit.MathEngineTest" />
+        <item itemvalue="Android JUnit.MathEngineTest.RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse" />
+        <item itemvalue="Android JUnit.MathEngineTest.RollSimulatorCallsItselfToRerollDiceIfRerollAllIsTrue" />
+        <item itemvalue="Android JUnit.MathEngineTest.RollSimulatorCallsRandomNumberForEachDiceRoll" />
+        <item itemvalue="Android JUnit.MathEngineTest.RollSimulatorCallsThreadLocalForEachDiceRoll" />
       </list>
     </recent_temporary>
   </component>
@@ -391,43 +526,43 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateSavingThrows - 2019.11.15 at 01h 02m 13s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateSavingThrows" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorCallsThreadLocalForEachDiceRoll - 2019.11.19 at 21h 54m 49s.xml">
+      <configuration name="MathEngineTest.RollSimulatorCallsThreadLocalForEachDiceRoll" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateSavingThrows - 2019.11.15 at 01h 02m 59s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateSavingThrows" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorCallsRandomNumberForEachDiceRoll - 2019.11.19 at 22h 16m 52s.xml">
+      <configuration name="MathEngineTest.RollSimulatorCallsRandomNumberForEachDiceRoll" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateSavingThrows - 2019.11.15 at 17h 07m 36s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateSavingThrows" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorCallsRandomNumberForEachDiceRoll - 2019.11.19 at 22h 17m 17s.xml">
+      <configuration name="MathEngineTest.RollSimulatorCallsRandomNumberForEachDiceRoll" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateNumberOfWounds - 2019.11.15 at 17h 49m 19s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfWounds" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest - 2019.11.19 at 22h 17m 50s.xml">
+      <configuration name="MathEngineTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateNumberOfHits - 2019.11.15 at 18h 05m 51s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfHits" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorCallsRandomNumberForEachDiceRoll - 2019.11.19 at 22h 18m 24s.xml">
+      <configuration name="MathEngineTest.RollSimulatorCallsRandomNumberForEachDiceRoll" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateNumberOfHits - 2019.11.15 at 19h 14m 07s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfHits" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorCallsItselfToRerollDiceIfRerollAllIsTrue - 2019.11.19 at 22h 47m 25s.xml">
+      <configuration name="MathEngineTest.RollSimulatorCallsItselfToRerollDiceIfRerollAllIsTrue" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateNumberOfHits - 2019.11.15 at 19h 18m 36s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfHits" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest - 2019.11.19 at 22h 55m 08s.xml">
+      <configuration name="MathEngineTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultCallsCalculateNumberOfHits - 2019.11.15 at 19h 19m 50s.xml">
-      <configuration name="MathEngineTest.GetRollResultCallsCalculateNumberOfHits" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse - 2019.11.19 at 23h 14m 06s.xml">
+      <configuration name="MathEngineTest.RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultReturnsNumberOfHitsAndWounds - 2019.11.15 at 20h 28m 30s.xml">
-      <configuration name="MathEngineTest.GetRollResultReturnsNumberOfHitsAndWounds" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse - 2019.11.19 at 23h 16m 00s.xml">
+      <configuration name="MathEngineTest.RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="MathEngineTest_GetRollResultReturnsNumberOfHitsAndWounds - 2019.11.15 at 20h 28m 54s.xml">
-      <configuration name="MathEngineTest.GetRollResultReturnsNumberOfHitsAndWounds" configurationId="AndroidJUnit" />
+    <history-entry file="MathEngineTest_RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse - 2019.11.19 at 23h 17m 58s.xml">
+      <configuration name="MathEngineTest.RollSimulatorDoesNotCallItselfWhenBothRerollOptionsAreFalse" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.33148405" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.16044776" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -435,12 +570,12 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.815534" weight="0.32719547" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.81449896" visible="true" weight="0.32666665" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4966443" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49626866" weight="0.32777777" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.18446602" side_tool="true" weight="0.3323782" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.18550107" side_tool="true" visible="true" weight="0.32666665" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49798658" weight="0.3286119" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49733475" weight="0.32152975" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
@@ -458,9 +593,15 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MathEngine.java</url>
-          <line>44</line>
+          <line>49</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MathEngine.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -482,14 +623,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/java/lang/Integer.class">
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-28/android.jar!/java/lang/Integer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="133" column="26" selection-start-line="133" selection-start-column="26" selection-end-line="133" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/os/Looper.class">
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-28/android.jar!/android/os/Looper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
@@ -500,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/android/view/View.class">
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-28/android.jar!/android/view/View.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21148">
           <caret line="1760" selection-start-line="1760" selection-end-line="1760" />
@@ -539,20 +680,6 @@
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-core-1.10.19-sources.jar!/org/mockito/Mockito.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-core-1.10.19-sources.jar!/org/mockito/cglib/proxy/MethodProxy.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-core-1.10.19-sources.jar!/org/mockito/internal/creation/cglib/DelegatingMockitoMethodProxy.java" />
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="43" column="62" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="android-designer2" />
@@ -582,19 +709,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/invocation/RealMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#1014#1216#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/invocation/InterceptedInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/stubbing/answers/CallsRealMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/Answers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/handler/MockHandlerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/handler/NullResultGuardian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/handler/InvocationNotifierHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.25.0/a318390edcde2c536c0d3d08cdba46996c3644f7/mockito-core-2.25.0-sources.jar!/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/birthday/warhammerdice/MathEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="295" column="9" lean-forward="true" selection-start-line="295" selection-start-column="9" selection-end-line="295" selection-end-column="9" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/birthday/warhammerdice/MathEngineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="232">
+          <caret line="129" selection-start-line="129" selection-end-line="140" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
           </folding>
         </state>
       </provider>
