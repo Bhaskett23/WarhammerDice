@@ -1,7 +1,7 @@
-#Sat Jul 06 01:20:31 EDT 2019
-base.0=C\:\\Users\\Brandon\\Documents\\GitHub\\WarhammerDice\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+#Tue Nov 19 20:53:10 EST 2019
+base.0=C\:\\Users\\Brandon\\Documents\\GitHub\\WarhammerDice\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Brandon\\Documents\\GitHub\\WarhammerDice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+base.1=C\:\\Users\\Brandon\\Documents\\GitHub\\WarhammerDice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
