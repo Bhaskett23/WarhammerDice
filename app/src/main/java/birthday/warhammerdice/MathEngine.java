@@ -18,7 +18,7 @@ public class MathEngine {
 
         int successes = 0;
         int misses = 0;
-        int total = 0;
+        int total;
 
         for (int i = 0; i < numberOfDice; i++) {
             int dieRoll = ThreadLocalRandom.current().nextInt(1, 7);
