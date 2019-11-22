@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Warhammer Dice</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Base</string>
+    <string name="tab_text_2">Faction Rules</string>
+    <string name="tab_text_3">Result</string>
 </resources>
