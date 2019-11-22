@@ -5,4 +5,15 @@
     <string name="tab_text_1">Base</string>
     <string name="tab_text_2">Faction Rules</string>
     <string name="tab_text_3">Result</string>
+    <string name="Number_of_dice">Number Of Dice</string>
+    <string name="Dice_to_Roll">Dice To Roll</string>>
+    <string name="To_Hit">To Hit</string>
+    <string name="Ballistic_Skill">Ballistic Skill</string>
+    <string name="To_Wound">To Wound</string>
+    <string name="Faction">Faction</string>
+
+    <string-array name="factions_array">
+        <item>Select a faction</item>
+        <item>Tau</item>
+    </string-array>
 </resources>

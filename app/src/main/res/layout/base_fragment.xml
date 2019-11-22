@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="82dp"
         android:layout_marginTop="32dp"
-        android:text="Number of Dice"
+        android:text="@string/Number_of_dice"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -24,6 +24,7 @@
         android:layout_marginStart="82dp"
         android:layout_marginTop="16dp"
         android:ems="10"
+        android:hint="@string/Dice_to_Roll"
         android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblDice" />
@@ -34,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="82dp"
         android:layout_marginTop="16dp"
-        android:text="To Hit"
+        android:text="@string/To_Hit"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtNumberOfDice" />
 
@@ -45,6 +46,7 @@
         android:layout_marginStart="82dp"
         android:layout_marginTop="16dp"
         android:ems="10"
+        android:hint="@string/Ballistic_Skill"
         android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblToHit" />
@@ -55,7 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="82dp"
         android:layout_marginTop="16dp"
-        android:text="To Wound"
+        android:text="@string/To_Wound"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtToHit" />
 
@@ -66,8 +68,32 @@
         android:layout_marginStart="82dp"
         android:layout_marginTop="16dp"
         android:ems="10"
+        android:hint="Strength Vs Toughness"
         android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblToWound" />
+
+    <Spinner
+        android:id="@+id/faction_spinner"
+        android:layout_width="236dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="82dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lblFaction"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/lblFaction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/Faction"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtToWound" />
 
 </android.support.constraint.ConstraintLayout>
